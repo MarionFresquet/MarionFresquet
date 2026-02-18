@@ -12,7 +12,7 @@ Here on my GitHub, you’ll find a few projects that reflect my interests in dat
 - NLP, LLM
 
 ## 📫 How to reach me
-- LinkedIn: (MarionFresquet)[www.linkedin.com/in/marion-fresquet-061044224]
+- LinkedIn: [MarionFresquet](www.linkedin.com/in/marion-fresquet-061044224)
 - Email: marion.fresquet@gmail.com
 
 I hope you enjoy exploring these projects as much as I enjoyed creating them.
